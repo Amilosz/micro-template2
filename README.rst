@@ -6,11 +6,11 @@ microservice template
 
 This project is a template for building microservices with Flask.
 
-.. image:: https://coveralls.io/repos/github/dark87/micro-template/badge.svg?branch=master
-   :target: https://coveralls.io/github/Amisz/micro-template2?branch=master
+.. image:: https://coveralls.io/repos/github/Amiloszsz/micro-template/badge.svg?branch=master
+   :target: https://coveralls.io/github/Amiloszsz/micro-template2?branch=master
 
-.. image:: https://travis-ci.org/dark87/micro-template.svg?branch=master
-   :target: https://travis-ci.org/dark87/micro-template
+.. image:: https://travis-ci.org/Amiloszsz/micro-template.svg?branch=master
+   :target: https://travis-ci.org/Amiloszsz/micro-template
 
 .. image:: https://readthedocs.org/projects/micro-template/badge/?version=latest
    :target: https://micro-template.readthedocs.io
